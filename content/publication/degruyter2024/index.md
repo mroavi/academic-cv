@@ -1,5 +1,5 @@
 ---
-title: "Scaling Probabilistic Inference through Message Contraction Optimization"
+title: "Pushing the Boundaries of Probabilistic Inference through Message Contraction Optimization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,23 +11,23 @@ authors:
 - Sander Stuijk 
 - Henk Corporaal
 
-date: "2023-07-26:00:00Z"
+date: "2024-07-24:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-02T00:00:00Z"
+publishDate: "2024-07-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: In the *2023 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE'23)*
 publication_short: In *CSCE'23*
 
-abstract: Within the realm of probabilistic graphical models, message-passing algorithms offer a powerful framework for efficient inference. When dealing with discrete variables, these algorithms essentially amount to the addition and multiplication of multidimensional arrays with labeled dimensions, known as factors. The complexity of these algorithms is dictated by the highest-dimensional factor appearing across all computations, a metric known as the induced tree width. Although state-of-the-art methods aimed at minimizing this metric have expanded the feasibility of exact inference, many real-world problems continue to be intractable. In this paper, we introduce a novel method for adding and multiplying factors that results in a substantial improvement in the inference performance, especially for increasingly complex models. Our approach aligns well with existing state-of-the-art methods designed to minimize the induced tree width, thereby further expanding the tractability spectrum of exact inference for more complex models. To demonstrate the efficacy of our method, we conduct a comparative evaluation against two other open-source libraries for probabilistic inference. Our approach exhibits an average speedup of 23 times for the UAI 2014 benchmark set. For the 10 most complex problems, the average speedup increases to 64 times, demonstrating its scalability.
+abstract: A key aspect of intelligent systems is their capacity to reason under uncertainty. This task involves calculating probabilities of relevant variables while considering any available information, a process commonly referred to as probabilistic inference. When working with discrete variables, the primary operations in probabilistic inference algorithms involve adding and multiplying multidimensional arrays with labeled dimensions, known as factors. The algorithmic complexity is dictated by the highest dimensional factor involved in any calculation; a concept referred to as the induced tree width. Despite advances in state-of-the-art techniques focused on reducing this metric, many real-world problems remain too complex to solve through existing probabilistic inference algorithms. In this work, we introduce a new method for adding and multiplying factors, which leads to marked improvements in inference performance, particularly for more complex models. Furthermore, this method serves as the core of a novel optimization framework introduced in this work, which employs metaprogramming to further enhance the runtime performance of probabilistic inference algorithms. Our method complements current leading-edge techniques aimed at reducing the induced tree width, thereby extending the range of models that can be effectively solved using exact inference. To validate the performance of our approach, we compare it against two other open-source libraries designed for probabilistic inference. Our method demonstrates an average speedup of 23 times on the UAI 2014 benchmark set. For the 10 most complex problems of this set, the average speedup increases to 64 times, highlighting the scalability of our method.
 
 
 
@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.computer.org/csdl/proceedings-article/csce/2023/275900a123/1W0gCYTXVew'
-url_code: 'https://github.com/mroavi/JunctionTrees.jl'
+url_pdf: 'https://www.degruyter.com/document/doi/10.1515/9783111344126-002/html'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -73,9 +73,9 @@ education:
     date_end: 2013-08-01
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-#    summary: |
-#      GPA: 3.8/4.0
+      url: 'https://pure.tue.nl/ws/files/46965337/777871-1.pdf'
+    summary: |
+      GPA: 8/10
 
 #      Courses included:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -151,7 +151,7 @@ skills:
       - name: Travelling
         description: ''
         percent: 90
-        icon: hero/globe-americas
+        icon: camera
 
 languages:
   - name: Spanish

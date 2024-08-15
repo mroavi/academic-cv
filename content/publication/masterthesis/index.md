@@ -39,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://pure.tue.nl/ws/files/46965337/777871-1.pdf;3D'
+url_pdf: 'https://pure.tue.nl/ws/files/46965337/777871-1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

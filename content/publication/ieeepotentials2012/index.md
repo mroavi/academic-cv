@@ -8,7 +8,7 @@ authors:
 - admin
 - Mauricio Orozco-Alzate
 
-#date: "2020-09-01:00:00Z"
+#date: "2020-09-01T00:00:00Z"
 doi: "10.1109/MPOT.2011.2178281"
 
 # Schedule page publish date (NOT publication's date).

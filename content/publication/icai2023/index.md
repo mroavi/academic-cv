@@ -11,7 +11,7 @@ authors:
 - Sander Stuijk 
 - Henk Corporaal
 
-date: "2023-07-26:00:00Z"
+date: "2023-07-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -10,7 +10,7 @@ authors:
 - Sander Stuijk 
 - Henk Corporaal
 
-date: "2022-08-31:00:00Z"
+date: "2022-08-31T00:00:00Z"
 doi: "10.1109/DSD57027.2022.00064"
 
 # Schedule page publish date (NOT publication's date).

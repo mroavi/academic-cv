@@ -11,7 +11,7 @@ authors:
 - admin
 - Bert de Vries
 
-#date: "2020-09-01:00:00Z"
+#date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

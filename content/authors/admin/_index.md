@@ -55,7 +55,7 @@ interests:
   - Robotics
 
 education:
-  - area: PhD in Probabilistic Graphical Models, Ongoing
+  - area: PhD in Probabilistic Graphical Models
     institution: Eindhoven University of Technology (TU/e)
     date_start: 2018-02-01
     date_end:

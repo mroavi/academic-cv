@@ -28,7 +28,7 @@ publishDate: '2022-07-27T14:30:00Z'
 authors:
   - admin
 
-tags: []
+tags: [JuliaCon]
 
 # Is this a featured talk? (true/false)
 featured: true

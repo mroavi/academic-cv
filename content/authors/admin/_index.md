@@ -111,7 +111,8 @@ work:
     date_end: 2023-07-31
     summary: |
       Courses:
-      - [Autonomous Vehicles (5AID0)](https://www.es.ele.tue.nl/education/5aid0/)
+      <!-- - [Autonomous Vehicles (5AID0)](https://www.es.ele.tue.nl/education/5aid0/) -->
+      - Autonomous Vehicles (5AID0)
       - Embedded Visual Control (5LIA0)
 
 # Skills

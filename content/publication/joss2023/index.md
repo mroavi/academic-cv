@@ -7,7 +7,7 @@ title: "TensorInference: A Julia package for tensor-based probabilistic inferenc
 authors:
 - admin
 - Jin-Guo Liu
-date: "2023-10-03:00:00Z"
+date: "2023-10-03T00:00:00Z"
 doi: "10.21105/joss.05700"
 
 # Schedule page publish date (NOT publication's date).

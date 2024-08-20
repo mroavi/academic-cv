@@ -4,9 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# mrv: avaiable color themes:
+# https://docs.hugoblox.com/getting-started/customize/#color-themes
 appearance:
   mode: system
-  color: indigo
+  color: green
 
 # SEO
 marketing:
@@ -33,7 +35,7 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     logo:
       text: "MRV"
 

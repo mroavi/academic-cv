@@ -12,7 +12,7 @@ authors:
 - Henk Corporaal
 
 date: "2023-07-26T00:00:00Z"
-doi: ""
+doi: "https://www.computer.org/csdl/proceedings-article/csce/2023/275900a123/1W0gCYTXVew"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-02T00:00:00Z"
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.computer.org/csdl/proceedings-article/csce/2023/275900a123/1W0gCYTXVew'
+url_pdf: ''
 url_code: 'https://github.com/mroavi/JunctionTrees.jl'
 url_dataset: ''
 url_poster: ''

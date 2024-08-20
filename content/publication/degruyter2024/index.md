@@ -12,7 +12,7 @@ authors:
 - Henk Corporaal
 
 date: "2024-07-24T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1515/9783111344126-002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-24T00:00:00Z"
@@ -21,11 +21,11 @@ publishDate: "2024-07-24T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In the *2023 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE'23)*
-publication_short: In *CSCE'23*
+publication: In the *Artificial Intelligence - Machine Learning, Convolutional Neural Networks and Large Language Models*
+publication_short: In *Artificial Intelligence*
 
 abstract: A key aspect of intelligent systems is their capacity to reason under uncertainty. This task involves calculating probabilities of relevant variables while considering any available information, a process commonly referred to as probabilistic inference. When working with discrete variables, the primary operations in probabilistic inference algorithms involve adding and multiplying multidimensional arrays with labeled dimensions, known as factors. The algorithmic complexity is dictated by the highest dimensional factor involved in any calculation; a concept referred to as the induced tree width. Despite advances in state-of-the-art techniques focused on reducing this metric, many real-world problems remain too complex to solve through existing probabilistic inference algorithms. In this work, we introduce a new method for adding and multiplying factors, which leads to marked improvements in inference performance, particularly for more complex models. Furthermore, this method serves as the core of a novel optimization framework introduced in this work, which employs metaprogramming to further enhance the runtime performance of probabilistic inference algorithms. Our method complements current leading-edge techniques aimed at reducing the induced tree width, thereby extending the range of models that can be effectively solved using exact inference. To validate the performance of our approach, we compare it against two other open-source libraries designed for probabilistic inference. Our method demonstrates an average speedup of 23 times on the UAI 2014 benchmark set. For the 10 most complex problems of this set, the average speedup increases to 64 times, highlighting the scalability of our method.
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.degruyter.com/document/doi/10.1515/9783111344126-002/html'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -76,13 +76,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -11,7 +11,7 @@ authors:
 - Henk Corporaal
 
 date: "2020-05-25T00:00:00Z"
-doi: "10.1145/3378678.3397528"
+doi: "https://dl.acm.org/doi/abs/10.1145/3378678.3397528"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-25T00:00:00Z"
@@ -41,7 +41,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3378678.3397528'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

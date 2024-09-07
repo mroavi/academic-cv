@@ -8,7 +8,7 @@ authors:
 - admin
 - Jin-Guo Liu
 date: "2023-10-03T00:00:00Z"
-doi: "https://joss.theoj.org/papers/10.21105/joss.05700"
+doi: "10.21105/joss.05700"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-03T00:00:00Z"
@@ -38,7 +38,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://doi.org/10.21105/joss.05700'
 url_code: 'https://github.com/TensorBFS/TensorInference.jl'
 url_dataset: ''
 url_poster: ''

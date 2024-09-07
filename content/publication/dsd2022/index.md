@@ -11,7 +11,7 @@ authors:
 - Henk Corporaal
 
 date: "2022-08-31T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/document/9996869"
+doi: "10.1109/DSD57027.2022.00064"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-04T00:00:00Z"

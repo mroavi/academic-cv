@@ -12,7 +12,7 @@ authors:
 - Henk Corporaal
 
 date: "2024-08-31T00:00:00Z"
-doi: "https://dl.acm.org/doi/10.1145/3690830"
+doi: "10.1145/3690830"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-08-31T00:00:00Z"

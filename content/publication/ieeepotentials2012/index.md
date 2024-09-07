@@ -9,7 +9,7 @@ authors:
 - Mauricio Orozco-Alzate
 
 #date: "2020-09-01T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/document/6169888"
+doi: "10.1109/MPOT.2011.2178281"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-03-15T00:00:00Z"

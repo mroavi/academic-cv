@@ -12,7 +12,7 @@ authors:
 - Henk Corporaal
 
 date: "2023-07-26T00:00:00Z"
-doi: "https://www.computer.org/csdl/proceedings-article/csce/2023/275900a123/1W0gCYTXVew"
+doi: "10.1109/CSCE60160.2023.00025"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-02T00:00:00Z"

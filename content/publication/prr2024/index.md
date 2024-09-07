@@ -12,7 +12,7 @@ authors:
 - Jin-Guo Liu
 
 date: "2024-09-06T00:00:00Z"
-doi: "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033261"
+doi: "10.1103/PhysRevResearch.6.033261"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-06T00:00:00Z"

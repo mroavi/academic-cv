@@ -38,7 +38,7 @@ summary:
 tags: [probabilistic inference, message-passing algorithms, probabilistic graphical models, Bayesian networks]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
